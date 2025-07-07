@@ -51,3 +51,5 @@ When you run the app, your webcam will turn on. It will detect faces and display
 Due to GitHub file size limits, the trained model file (emotiondetector.h5) and image dataset are not included here. You can request them via [Google Drive link or email].
 
 🌟 Feel free to star this repo if you liked it!
+
+Author: Mihir Umrotkar
